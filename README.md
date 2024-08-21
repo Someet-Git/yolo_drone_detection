@@ -18,7 +18,7 @@ Then preprocessing the dataset by resizing images to a fixed size, normalizing p
 
 - I used YOLO model which is based on CNN and the version that I used is v8.0.196. 
 
-- This is the YOLOV8 architecture, you can see that this is an Anchor free moedel which means it directly predicts the centre of the image instead of the offsets called anchor box.
+- This is the YOLOV8 architecture, you can see that this is an Anchor free model which means it directly predicts the centre of the image instead of the offsets called anchor box.
 
 ![image](https://github.com/Someet-Git/yolo_drone_detection/assets/32305867/5509539b-a133-40ce-b95e-c78c9d0122e9)
 
