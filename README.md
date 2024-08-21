@@ -1,4 +1,4 @@
-# Task-1 --> Drone Object Detection 
+# Task --> Drone Object Detection 
 ------------------------------------
   - Let's understand how we collected the dataset and trained the CNN->(Convulation Neural Network) model on that dataset and predict the drones or small drones present in the images and videos.
   - We can also use the saved model after the training to predict the drones in any any type of input either live video streams from cameras, or recorded videos.
@@ -51,4 +51,4 @@ And the model that I was traing consist of 295 layers and around 25856899 parame
 **Based on the Model training it performs really well.**
 -------------------------------------------------
 
-## Thank you for this learning opportunity !!
+## If you have reached here, Thank you for reading. !!
