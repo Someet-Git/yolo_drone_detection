@@ -45,7 +45,7 @@ And the model that I was traing consist of 295 layers and around 25856899 parame
 ------------------------------------------
 # Step 4: Prediction on Video data
 - After that I uploaded 2 video from the youtube to see how the model performs.
-- You can access the output from the model it is save in the dir `working/runs/detect/predict4/` and `working/runs/detect/predict2/`
+- You can access the output from the model it is upladed as `drone detection on video data.mp4`
   
 **How it is predicting in the videos basically it is converting the videos into frames and for each frame it is finding Drones in them**
 **Based on the Model training it performs really well.**
