@@ -1,3 +1,4 @@
+![](https://github.com/Someet-Git/yolo_drone_detection/blob/Main/drone.gif)
 # Task --> Drone Object Detection 
 ------------------------------------
   - Let's understand how we collected the dataset and trained the CNN->(Convulation Neural Network) model on that dataset and predict the drones or small drones present in the images and videos.
@@ -48,7 +49,6 @@ And the model that I was traing consist of 295 layers and around 25856899 parame
 ![image](https://github.com/Someet-Git/yolo_drone_detection/blob/Main/predict4/00475_jpg.rf.b6113f88c935a14e766529ee47ba1ecb.jpg?raw=true)
 - After that I uploaded 2 video from the youtube to see how the model performs.
 - You can access the output from the model it is upladed as `drone detection on video data.mp4`
-![](https://github.com/Someet-Git/yolo_drone_detection/blob/Main/drone.gif)
   
 **How it is predicting in the videos basically it is converting the videos into frames and for each frame it is finding Drones in them**
 **Based on the Model training it performs really well.**
