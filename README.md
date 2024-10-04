@@ -43,7 +43,9 @@ And the model that I was traing consist of 295 layers and around 25856899 parame
 - access the confusion matrix in `working/runs/detect/train/confusion_matrix.png`
 - 
 ------------------------------------------
-# Step 4: Prediction on Video data
+# Step 4: Prediction on Image and Video data
+- The predictions from Model can be found on the `Predict4` folder
+![image](https://github.com/Someet-Git/yolo_drone_detection/blob/Main/predict4/00475_jpg.rf.b6113f88c935a14e766529ee47ba1ecb.jpg?raw=true)
 - After that I uploaded 2 video from the youtube to see how the model performs.
 - You can access the output from the model it is upladed as `drone detection on video data.mp4`
   
