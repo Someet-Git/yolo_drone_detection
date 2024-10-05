@@ -4,6 +4,8 @@
   - Let's understand how we collected the dataset and trained the CNN->(Convulation Neural Network) model on that dataset and predict the drones or small drones present in the images and videos.
   - We can also use the saved model after the training to predict the drones in any any type of input either live video streams from cameras, or recorded videos.
 
+### Link to the notebook
+https://www.kaggle.com/code/someet2405/yolo-drone-vid/notebook
 # Step 1: Data Collection and Preprocessing
 ---------------------------------------------
 - Collect a dataset containing images or video frames with small drones as the target objects. Annotating these datasets with bounding boxes indicating the location of drones.
