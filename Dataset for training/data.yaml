@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['drone']
+
+roboflow:
+  workspace: customyolo-k3lvg
+  project: drones-rom1a
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/customyolo-k3lvg/drones-rom1a/dataset/1
